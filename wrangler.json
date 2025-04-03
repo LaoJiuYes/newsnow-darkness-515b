@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "newsnow-darkness-515b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "81cde75a-6a41-432b-96de-ab3b262d2720",
+      "database_name": "quiet-union-7758-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
